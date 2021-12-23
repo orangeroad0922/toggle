@@ -3,6 +3,7 @@
   "displayName": "Toggle",
   "description": "Open google page and search.",
   "version": "0.0.1",
+  "publisher": "orangeroad0922",
   "engines": {
     "vscode": "^1.62.0"
   },
